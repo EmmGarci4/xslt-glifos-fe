@@ -2,6 +2,10 @@ body {
   background-color: #ccc;
 }
 
+.form {
+  width: 100%;
+}
+
 .title {
   color: #293577;
 }
